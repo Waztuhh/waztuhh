@@ -1,18 +1,25 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/530407551699779588)](https://discord.com/users/530407551699779588)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/530407551699779588?theme=dark)](https://discord.com/users/530407551699779588)
 
-### Merhaba! 👋 Ben Waztu. 19 yaşındayım ve üniversite 1 okuyorum. Sizlere kendi yapmış olduğum projeleri buradan göstereceğim. 
 
-<!--
-**Waztuhh/waztuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hakkımda:</h2>
 
-Here are some ideas to get you started:
+```js
+const { ismin, yaşın, okulun, bolgen } = require("../../bilgilerim.json")
+run: async (message) => {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+message.channel.send(`
+
+${ismin}: Ismim Yusuf.
+${yaşın}: 19 Yaşındayım.
+${okulun}: Üniversite 1 bilgisayar mühendisliği okuyorum.
+${bolgen}: Azerbaycan.
+
+ `)
+};
+```
+
+
+
+
+
+
