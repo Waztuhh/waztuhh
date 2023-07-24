@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba! 👋 Ben Waztu. 19 yaşındayım ve üniversite 1 okuyorum. Sizlere kendi yapmış olduğum projeleri buradan göstereceğim. 
 
 <!--
 **Waztuhh/waztuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
