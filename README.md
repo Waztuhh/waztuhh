@@ -4,7 +4,7 @@
 <h2>Hakkımda:</h2>
 
 ```js
-const { ismin, yaşın, okulun, bolgen } = require("../../bilgilerim.json")
+const { ismin, yaşın, okulun, bolgen } = require("../hakkimda.json")
 run: async (message) => {
 
 message.channel.send(`
