@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/530407551699779588)](https://discord.com/users/530407551699779588)
+
 ### Merhaba! 👋 Ben Waztu. 19 yaşındayım ve üniversite 1 okuyorum. Sizlere kendi yapmış olduğum projeleri buradan göstereceğim. 
 
 <!--
